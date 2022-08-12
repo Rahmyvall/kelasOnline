@@ -48,6 +48,4 @@ Untuk cara instalasi dan konfigurasi caranya sangat mudah
 2. Selanjutnya kalian bisa buka file `functions.php`
 3. Ubah isi dari variable `$base_url` dengan `http://localhost/namafolder/`
 4. Untuk `namafolder` silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
-5. Untuk login kalian bisa register terlebih dahulu atau menggunakan username = `admin123` dan password `admin123`
-
-#
+5. Untuk login kalian bisa register terlebih dahulu atau menggunakan username = `admin123` dan password `admin123`#
